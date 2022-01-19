@@ -1,4 +1,4 @@
-public class patten2 {
+public class Patten2 {
     public static void main(String[] args) {
         System.out.println("Arsh Patel");
 
